@@ -17,7 +17,7 @@ Note that this project **does not** adhere to [Semantic Versioning](https://semv
 
 ### Fixed
 
-We fixed an error on startup when using portable preferences. [#14729](https://github.com/JabRef/jabref/issues/14729)
+- We fixed an error on startup when using portable preferences. [#14729](https://github.com/JabRef/jabref/issues/14729)
 - Only show restart search button in citation-relation panel when the fetch failed. [#14757](https://github.com/JabRef/jabref/issues/14757)
 
 ### Removed
